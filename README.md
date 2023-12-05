@@ -2,7 +2,7 @@
 
 This repository contains all of the python code implementations for each topic in the course outline for ADVANCED DATABASE SYSTEMS
 
-Course Outline: 
+Course Outline: https://believed-bongo-319.notion.site/CTADVDBL-e096ae8c9b03449ca84b88531e1589ee?pvs=4
 
 | Topic | Description | 
 | :---: | :---: |       
