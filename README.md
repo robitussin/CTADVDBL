@@ -7,11 +7,11 @@ Course Outline:
 | Topic | Description | 
 | :---: | :---: |       
 | Part 1 - Introduction | |
-| Part 2 - Relational Languages | Introduction to the Relational Model, Introduction to SQL, Intermediate SQL, Advanced SQL |
-| 3 - Model Interpretability |  |
-| 4 - Working with Anomalies |  |
-| 5 - Working with Time Series |  |
-| 6 - Data Communication  | |
+| Part 1 - Relational Languages | Introduction to the Relational Model, Introduction to SQL, Intermediate SQL, Advanced SQL |
+| Part 2 - Database Design | Database Design Using The E-R Model, Relational Database Design |
+| Part 3 - Application Design and Development | Complex Data Types, Application Development |
+| Part 4 - Big Data Analytics | Big Data, Data Analysis |
+| Part 4 - Storage Management  | Physical Storage Systems, Data Storage Structures, Indexing |
 
 
 
